@@ -32,6 +32,7 @@
   (Luciole-Regular, gadget selon notre formateur Jonathan Pansiot)
 - Mythe à propos de la dyslexie  
   https://www.linkedin.com/pulse/dyslexic-myths-presented-truths-gareth-ford-williams/
+- `img` a un `display: inline-block` par défaut, donc modifier pour `display: block` pour centrer etc
   
 
 
