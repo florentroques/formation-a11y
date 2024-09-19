@@ -27,6 +27,7 @@
   800/900 bold  
 - texte souligné : conserver `uniquement` pour les liens  
   (ne pas frustrer les utilisateurs avec du texte souligné qui n'est pas un lien)
+- `font-family` : éviter des fonts spéciales, préférer fonts déjà installées
   
 
 
