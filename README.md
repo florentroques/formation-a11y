@@ -21,7 +21,10 @@
   Score demandé en AA : 4,5  
   Score demandé en AAA : 9
 - `line-height` recommandé : 1.5 (Critère AAA)
-- font-weight : 100 très fin, 400 normal, 800/900 bold
+- `font-weight` :  
+  100 très fin  
+  400 normal  
+  800/900 bold  
 - texte souligné : conserver pour les liens
   
 
