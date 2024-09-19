@@ -4,7 +4,7 @@
   https://checklists.opquast.com/fr/assurance-qualite-web
 - RGAA Luxembourg  
   https://accessibilite.public.lu/fr/raweb1/index.html
-- Texte : Ne jamais utiliser justify sinon problème avec les dyslexiques
+- Texte : Ne jamais utiliser `justify` sinon problème avec les dyslexiques
 - Pour gérer les tailles de texte, préférer em
   - La taille de texte em est proportionnelle à la taille de texte de l'élément parent
   - exemple : les navigateurs ont une taille de texte de 16px par défaut  
