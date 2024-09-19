@@ -37,6 +37,8 @@
 - conférence sur l'em  
   https://www.paris-web.fr/2013/conference/un-petit-pas-pour-lem-un-grand-pas-pour-le-web
 - font-size pour l'accessibilité : `font-size: 62.5%;`
+- 30em en moyenne
+- Convertisseur px vers em : https://pxtoem.com.au
 
 
     
