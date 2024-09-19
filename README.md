@@ -20,7 +20,7 @@
   https://www.tpgi.com/color-contrast-checker/  
   Score demandé en AA : 4,5  
   Score demandé en AAA : 9
-- line-height recommandé : 1.5 (Critère AAA)
+- `line-height` recommandé : 1.5 (Critère AAA)
   
 
 
