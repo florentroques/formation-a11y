@@ -1,5 +1,7 @@
 # notes-formation-a11y
 
+- Checklist pour la qualité d'une page web :  
+  https://checklists.opquast.com/fr/assurance-qualite-web/
 - Texte : Ne jamais utiliser justify sinon problème avec les dyslexiques
 - Pour gérer les tailles de texte, préférer em
   - La taille de texte em est proportionnelle à la taille de texte de l'élément parent
