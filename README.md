@@ -25,7 +25,7 @@
   100 très fin  
   400 normal  
   800/900 bold  
-- texte souligné : conserver pour les liens
+- texte souligné : conserver `uniquement` pour les liens (ne pas frustrer les utilisateurs avec du texte souligné qui n'est pas un lien)
   
 
 
