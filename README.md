@@ -9,5 +9,8 @@
     tous les éléments enfants de main auront 1em = 20px
   - rem est toujours proportionnel à la taille par défaut de l'appareil
     donc 1rem = 16px dans les navigateurs en permanence
-    Et sur une télévision par exemple 1rem peut être égal à 24px 
+    Et sur une télévision par exemple 1rem peut être égal à 24px
+
+- Meilleure article d'explication de flexbox :  
+  https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
     
