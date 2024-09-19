@@ -34,7 +34,8 @@
   https://www.linkedin.com/pulse/dyslexic-myths-presented-truths-gareth-ford-williams/
 - `img` a un `display: inline-block` par défaut, donc modifier pour `display: block` pour centrer etc
 - les gens dézooment parce qu'ils ont une vision périphérique restreinte (ce n'est pas une erreur)
-  
+- conférence sur l'em  
+  https://www.paris-web.fr/2013/conference/un-petit-pas-pour-lem-un-grand-pas-pour-le-web  
 
 
     
