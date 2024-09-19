@@ -12,7 +12,13 @@
   - rem est toujours proportionnel à la taille par défaut de l'appareil
     donc 1rem = 16px dans les navigateurs en permanence
     Et sur une télévision par exemple 1rem peut être égal à 24px
-
 - Meilleure article d'explication de flexbox :  
   https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+- Télécharger le logiciel Colour Contrast Analyser (CCA) pour analyser le contraste de la page  
+  https://www.tpgi.com/color-contrast-checker/  
+  Score demandé en AA : 4,5  
+  Score demandé en AAA : 9
+  
+
+
     
