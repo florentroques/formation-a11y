@@ -1,4 +1,4 @@
-# formation-a11y-numerikea
+# formation-a11y
 
 - Checklist pour la qualité d'une page web :  
   https://checklists.opquast.com/fr/assurance-qualite-web
