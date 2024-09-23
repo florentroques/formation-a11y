@@ -47,3 +47,4 @@
 - media query 2024 : https://caniuse.com/css-media-range-syntax
 - En accessibilité, on veut gérer minimum avec une width 320px
 - Gérer zoom homothétique + zoom texte (un des deux convient pour l'accessibilité maos préférer zoom texte)
+- une petite image = 20px
