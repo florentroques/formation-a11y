@@ -45,4 +45,4 @@
 - :nth Tester CSS Tricks (https://css-tricks.com/examples/nth-child-tester/)  
 - pseudo class = même poids que class
 - media query 2024 : https://caniuse.com/css-media-range-syntax
-- 
+- En accessibilité, on veut gérer minimum avec une width 320px
