@@ -40,7 +40,8 @@
 - 30em en moyenne
 - Convertisseur px vers em : https://pxtoem.com.au
 - gris minimum comme fond rgb(76,76,76) et rgb(89,89,89)
-- background-color : critère 10.5 en RGAA couleur de fond et une couleur pour le texte pour le body 
+- background-color : critère 10.5 en RGAA couleur de fond et une couleur pour le texte pour le body
+- button peut être activé par space ou enter
 
 
     
