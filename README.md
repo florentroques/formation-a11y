@@ -52,3 +52,4 @@
 - Ne jamais utiliser height
 - Un élément dans un flux flexbox est stretch par défaut
 - flex-basis = max-width
+- display none = élément sort du DOM, visibility hidden = élément auss caché mais garde la taille de l'élément
