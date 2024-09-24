@@ -49,4 +49,4 @@
 - Gérer zoom homothétique + zoom texte (un des deux convient pour l'accessibilité maos préférer zoom texte)
 - une petite image = 20px
 - padding sur element absolute pour laisser marge
-- Ne jamais utiliser height
+- Ne jamais utiliser height avec px
