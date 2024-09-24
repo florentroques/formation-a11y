@@ -51,3 +51,4 @@
 - padding sur element absolute pour laisser marge
 - Ne jamais utiliser height
 - Un élément dans un flux flexbox est stretch par défaut
+- flex-basis = max-width
