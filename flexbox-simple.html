@@ -9,7 +9,7 @@
             /* align items in row direction */
             align-items: center;
             margin: 0 auto;
-            max-width: 768px;
+            max-width: 48em;
             min-height: 100vh;
             min-height: 100dvh; /* dvh = dynamic viewport height */
         }
@@ -34,15 +34,15 @@
         }
 
         nav li {
-            margin: 0 10px;
-            border: 2px dotted red;
+            margin: 0 0.625em;
+            border: 0.125em dotted red;
         }
 
         header nav li:last-child {
             border: none;
         }
 
-        @media (min-width: 700px) {
+        @media (min-width: 43.75em) {
             header nav li:last-child {
                 order: -1;
             }
