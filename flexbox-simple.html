@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            /* align items in row direction */
+            align-items: center;
+            margin: 0 auto;
+            max-width: 768px;
+            min-height: 100vh;
+            min-height: 100dvh; /* dvh = dynamic viewport height */
+        }
+
+        header img {
+            max-width: 100%;
+        }
+
+        header ul {
+            min-height: 15vh;
+            min-height: 15dvh;
+        }
+
+        nav ul {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap-reverse;
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        nav li {
+            margin: 0 10px;
+            border: 2px dotted red;
+        }
+
+        header nav li:last-child {
+            border: none;
+        }
+
+        @media (min-width: 700px) {
+            header nav li:last-child {
+                order: -1;
+            }
+        }
+
+        footer {
+            margin-top: auto;
+        }
+
+        footer p {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Accueil</a></li>
+                <li><a href="">Qui sommes-nous ?</a></li>
+                <li><a href="">Contact</a></li>
+                <li>
+                    <h1>
+                        <a href="">
+                            <img src="numerik-ea-400.png" class="logo" alt="Logo Numerik-ea">
+                        </a>
+                    </h1>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>
+            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
+            Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
+            Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem
+            Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable
+            source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes
+            of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular
+            during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in
+            section 1.10.32.
+        </p>
+    </main>
+    <footer>
+        <p>Copyright 2024</p>
+        <nav>
+            <ul>
+                <li><a href="">Accueil</a></li>
+                <li><a href="">Qui sommes-nous ?</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+
+</html>
