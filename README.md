@@ -55,4 +55,5 @@
 - display none = élément sort du DOM, visibility hidden = élément aussi caché mais garde la taille de l'élément
 - animations ne doivent pas dépasser 5 secondes
 - toujours mettre un background-color et color sur body (RGAA 10.5)
-- exemple grid-column de première à dernière colonne : grid-column: 1 / -1 (grid-column: 1 / -2 jusquà l'avant dernier) 
+- exemple grid-column de première à dernière colonne : grid-column: 1 / -1 (grid-column: 1 / -2 jusquà l'avant dernier)
+- en accessbilité on garde seulement les tabindex 0 et -1
