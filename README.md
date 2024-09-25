@@ -54,4 +54,4 @@
 - flex-basis = max-width
 - display none = élément sort du DOM, visibility hidden = élément aussi caché mais garde la taille de l'élément
 - animations ne doivent pas dépasser 5 secondes
-- toujours mettre un background-color et color sur body
+- toujours mettre un background-color et color sur body (RGAA 10.5)
