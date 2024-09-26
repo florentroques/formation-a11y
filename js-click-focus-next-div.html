@@ -14,14 +14,21 @@
 
 <body>
     <button type="button" id="button">Afficher plus</button>
-    <div tabindex="-1">Je suis une div focusable</div>
+    <div>Je suis une div focusable</div>
 
     <script>
         const button = document.getElementById('button');
+        const div = document.querySelector('div');
 
         button.addEventListener('click', function () {
-            document.querySelector('div').focus();
+            div.setAttribute('tabindex', '-1');
+            div.focus();
         });
+
+        div.addEventListener('focusout', function() {
+            div.removeAttribute('tabindex');
+        })
+        
     </script>
 </body>
 
