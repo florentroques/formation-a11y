@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid 3 lignes et 3 colonnes</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: auto 1fr auto;
+            grid-template-areas:
+                "header header header"
+                "article article aside"
+                "footer1 footer2 footer3";
+            gap: 10px;
+            height: 100vh;
+            padding: 20px;
+        }
+
+        .header {
+            grid-area: header;
+            background-color: #f8b400;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .article {
+            grid-area: article;
+            background-color: #f78f1e;
+            padding: 20px;
+        }
+
+        .aside {
+            grid-area: aside;
+            background-color: #f54b64;
+            padding: 20px;
+        }
+
+        .footer1 {
+            grid-area: footer1;
+            background-color: #29b6f6;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer2 {
+            grid-area: footer2;
+            background-color: #03a9f4;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer3 {
+            grid-area: footer3;
+            background-color: #0288d1;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <header class="header">Header</header>
+        <article class="article">Article</article>
+        <aside class="aside">Aside</aside>
+        <footer class="footer1">Footer 1</footer>
+        <footer class="footer2">Footer 2</footer>
+        <footer class="footer3">Footer 3</footer>
+    </div>
+
+</body>
+
+</html>
