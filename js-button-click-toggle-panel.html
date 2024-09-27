@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button onclick focus next div</title>
+    <style>
+        h2.open+div.panel {
+            display: block;
+            height: 1.5em;
+            background: red;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>
+        <button type="button" aria-expanded="false">ma question FAQ</button>
+    </h2>
+    <div class="panel"></div>
+
+    <script>
+        const button = document.querySelector('button');
+        const h2 = document.querySelector('h2');
+
+        button.addEventListener('click', function () {
+            const isButtonExpanded = button.getAttribute('aria-expanded') === 'true' ? true : false;
+            button.setAttribute('aria-expanded', !isButtonExpanded);
+            h2.classList.toggle('open');
+        });
+    </script>
+</body>
+
+</html>
