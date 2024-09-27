@@ -58,4 +58,4 @@
 - exemple grid-column de première à dernière colonne : grid-column: 1 / -1 (grid-column: 1 / -2 jusquà l'avant dernier)
 - en accessbilité on garde seulement les tabindex 0 et -1
 - Codepen d'un dev accessbilité https://codepen.io/scottohara
-- px -> em
+- px -> em, height toujours em pour les tailles
