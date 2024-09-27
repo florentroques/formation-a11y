@@ -1,4 +1,4 @@
-# formation-a11y
+9# formation-a11y
 
 - Checklist pour la qualité d'une page web :  
   https://checklists.opquast.com/fr/assurance-qualite-web
@@ -58,4 +58,7 @@
 - exemple grid-column de première à dernière colonne : grid-column: 1 / -1 (grid-column: 1 / -2 jusquà l'avant dernier)
 - en accessbilité on garde seulement les tabindex 0 et -1
 - Codepen d'un dev accessbilité https://codepen.io/scottohara
+- px -> em, height toujours em pour les tailles pour s'adapter au zoom
+- CSS pour sr-only :
+    - border: 0; clip: rect(1px, 1px, 1px, 1px); height: 1px; overflow: hidden; padding: 0; position: absolute; width: 1px; white-space: nowrap;
 - 
