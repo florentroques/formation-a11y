@@ -1,0 +1,21 @@
+1. Accueil : https://www.jacadi.fr/
+2. Contact : https://www.jacadi.fr/contact
+3. Mentions légales : https://www.jacadi.fr/mentions-legales
+4 Se connecter : https://www.jacadi.fr/login
+5. Créer mon compte : https://www.jacadi.fr/register
+6. Résultat de recherche : https://www.jacadi.fr/search/?text=body
+7. Liste produits : https://www.jacadi.fr/chaussures/chaussure-fille/c/m1-4-1
+8. Fiche produit : https://www.jacadi.fr/chaussures/chaussure-fille/chaussures-fourrees/Bottines-fourrees-bebe-fille/p/2039918_123
+9. Panier : https://www.jacadi.fr/cart
+10. Livraison : https://www.jacadi.fr/checkout/multi/delivery-method/choose
+11. Paiement : https://www.jacadi.fr/checkout/multi/adyen/select-payment-method
+12. La marque : https://www.jacadi.fr/maison-jacadi
+13. Les services : https://www.jacadi.fr/services-sur-mesure
+14. Liste des boutiques : https://www.jacadi.fr/store-finder
+15. Fiche boutique : https://www.jacadi.fr/store/1989
+16. Ventes privées : https://www.jacadi.fr/ventes-privees
+17. Carte cadeau : https://www.jacadi.fr/e-carte-cadeau
+18. Fidélité : https://www.jacadi.fr/la-fidelite-jacadi-adhesion
+19. Nos engagnements : https://www.jacadi.fr/nos-engagements
+20. CGV : https://www.jacadi.fr/conditions-generales-de-vente#articl8
+21. Suivi : https://www.jacadi.fr/suivi
